@@ -38,8 +38,8 @@ PROFILE_FLAG = "--profile"  # also used in argparse processing
 if PROFILE_FLAG in sys.argv:
     import cProfile
 
-__version__ = '1.3.1.1'
-__last_mod_date__ = 'June 27, 2024'
+__version__ = '1.3.1.1.1'
+__last_mod_date__ = 'July 26, 2024'
 __description__ = "uroman is a universal romanizer. It converts text in any script to the standard Latin alphabet."
 
 # UTILITIES
